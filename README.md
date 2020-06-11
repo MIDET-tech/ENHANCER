@@ -1,14 +1,14 @@
 # ENHANCER
 
-##English ver.
+## English ver.
 
 Thank you for visiting our repository.
 You can download codes shown in our article.
-Please access our homepage from [here](https://enhancer298.net/)
+Please access our homepage from [here].(https://enhancer298.net/)
 
 If you have any question, recommendation, or correction found in our article, please contact us. [email](enhancer200505@gmail.com)
 
-##日本語 ver.
+## 日本語 ver.
 
 本ページを訪れていただきありがとうございます。
 ここでは、記事で紹介されているコードを全てアップロードしています。
@@ -17,4 +17,4 @@ If you have any question, recommendation, or correction found in our article, pl
 
 [ENHNCER公式HP](https://enhancer298.net/)はこちらから。
 
-内容に関するご質問、ご指摘、感想等ございましたら、こちらのメールアドレスからどうぞ。[email](enhancer200505@gmail.com)
+内容に関するご質問、ご指摘、感想等ございましたら、こちらの[メールアドレス](enhancer200505@gmail.com)からどうぞ。
