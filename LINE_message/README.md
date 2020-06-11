@@ -37,4 +37,4 @@ pip install requests==2.23.0
 * https://twitter.com/ENHANCER298
 
 ここまで読んでいただきありがとうございました！
-次回のコードもお楽しみに。
+次回のコードもお楽しみに！
