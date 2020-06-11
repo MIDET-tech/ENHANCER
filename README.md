@@ -23,3 +23,7 @@ If you have any question, recommendation, or correction found in our article, pl
 [ENHNCER公式HP](https://enhancer298.net/)はこちらから。
 
 内容に関するご質問、ご指摘、感想等ございましたら、こちらの[メールアドレス](enhancer200505@gmail.com)からどうぞ。
+
+なお、紹介するコードは基本的にGoogle Colaboratoryで動作確認を行っており、OSの依存性がないよう考慮済みです。
+
+また、Pythonのバージョン、ライブラリ等の情報はそれぞれのファイルのREADME.mdにまとめてあるので随時ご活用ください。
