@@ -14,7 +14,6 @@
 
 [Google Colaboratory](https://www.anaconda.com/distribution/)で動作確認済みですので、OS依存性なく実行できます。
 
-## 補足情報
 
 ## 制作者
 
