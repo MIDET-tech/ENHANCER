@@ -1,0 +1,21 @@
+# 【Python】インデントの重要性・キーワード・データ型
+
+上記のタイトルの記事のコードを載せました。
+
+学習に活用してください。
+
+## 使用環境
+
+* Python 3.6.9
+
+[Google Colaboratory](https://www.anaconda.com/distribution/)で動作確認済みですので、OS依存性なく実行できます。
+
+
+## 制作者
+
+* おぎー
+* ENHANCER
+* https://twitter.com/ENHANCER298
+
+ここまで読んでいただきありがとうございました！
+次回のコードもお楽しみに！
