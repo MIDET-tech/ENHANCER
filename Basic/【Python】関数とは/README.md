@@ -2,9 +2,11 @@
 
 上記タイトルの記事で紹介したコードを載せました。
 
-学習に活用してください
+問題の答えも記載しています！
+学習に活用してください。
 
-##https://enhancer298.net/wp-content/uploads/2020/06/4f6724bb326c5ea706776851c3cb93f8-e1592102425180.jpg
+## サンプル画像
+![](https://enhancer298.net/wp-content/uploads/2020/06/4f6724bb326c5ea706776851c3cb93f8-e1592102425180.jpg)
 
 ## 使用環境
 
