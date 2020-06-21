@@ -6,7 +6,7 @@
 学習に活用してください。
 
 ## サンプル画像
-![](https://enhancer298.net/wp-content/uploads/2020/06/4f6724bb326c5ea706776851c3cb93f8-e1592102425180.jpg)
+![](https://enhancer298.net/wp-content/uploads/2020/06/d698b18b269e3c6645a5b241231948c7-e1592731016463.jpg)
 
 ## 使用環境
 
