@@ -1,5 +1,5 @@
 
-# Pythonで簡単なゲームを作ろう！（ハングマン）～前編・後編～
+# Pythonで簡単なゲームを作ろう！（ハングマン）～前編・後編・番外編～
 
 上記タイトルの記事で紹介したコードを載せました。
 
@@ -9,6 +9,7 @@
 ## サンプル画像
 ![](https://enhancer298.net/wp-content/uploads/2020/07/5bdcfe8985941e37daf77797e9f3207b-1.jpg)
 ![](https://enhancer298.net/wp-content/uploads/2020/07/ed72909f2ba27f92854072a8378000fc.jpg)
+![](https://enhancer298.net/wp-content/uploads/2020/07/259db641ce40bc16ae758f655f1ed7d2.jpg)
 
 ## 使用環境
 
